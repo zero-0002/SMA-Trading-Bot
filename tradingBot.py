@@ -18,7 +18,13 @@ if __name__ == "__main__":
 
     # Wait 5 seconds after logging in
     sleep(5)
-    send_market_order()
+    symbol = 'EURUSD'
+    volume = 1.0
+    order_type = 'sell'
+    send_market_order(symbol, volume, order_type)
+    sleep(5)
+    close_all_positions('all')
+
 
 
 
