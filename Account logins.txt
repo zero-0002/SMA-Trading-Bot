@@ -1,0 +1,6 @@
+Broker : TICKMILL
+Demo account number	25141208
+Demo account type	Classic
+Demo account currency	USD
+Demo account password l4!z9,JM5>bl
+Demo account investor (read only) password g8]Z-iDUF!.O
